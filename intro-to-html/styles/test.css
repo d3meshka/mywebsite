@@ -1,0 +1,49 @@
+p {
+  font-family: Arial;
+}
+
+.video-title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.view {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.marq {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.long {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  width: 300px;
+  line-height: 21px;
+  margin-bottom: 100px;
+}
+.link {
+  background-color: rgb(227, 65, 64);
+  font-size: 14px;
+  margin-bottom: 50px;
+  color: white;
+  text-align: center;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+.under {
+  cursor: pointer;
+}
+.under:hover {
+  text-decoration: underline;
+}
+.my_image {
+  width: 20px;
+}
